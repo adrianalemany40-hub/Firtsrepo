@@ -48,9 +48,8 @@ Soy un profesional del área de **Recursos Humanos** con formación en gestión 
 <p>
   <img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" alt="Asesoría laboral" width="30" height="30"/> <b>Asesoría laboral</b>
 </p>
-
   <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" alt="Excel" width="40" height="40"/> <b>**Ofimática** (Excel, Word, PowerPoint)</b>
-
+  
    ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  **Python GitHub & Markdown** 
  
